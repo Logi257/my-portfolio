@@ -4,10 +4,10 @@ import { GraduationCap, Calendar } from "lucide-react";
 
 const education = [
   {
-    degree: "Bachelor of Mathematics",
-    school: "V.O.Chidambaram College",
-    year: "2020 - 2023",
-    description: "Specialized in Mathematics and Analytics",
+    degree: "Full Stack Development",
+    school: "NxtWave",
+    year: "May 2024 - Feb 2025",
+    description: "Full Stack Development with MERN Specialization",
   },
   {
     degree: "Master of Computer Application",
@@ -15,6 +15,13 @@ const education = [
     year: "2024 - 2026",
     description:
       "Major in Computer Application with focus on Frontend Development",
+  },
+
+  {
+    degree: "Bachelor of Mathematics",
+    school: "V.O.Chidambaram College",
+    year: "2020 - 2023",
+    description: "Specialized in Mathematics and Analytics",
   },
 ];
 
