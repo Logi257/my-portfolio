@@ -4,6 +4,17 @@ import { ExternalLink, Github } from "lucide-react";
 
 const projects = [
   {
+    title: "Tomato - Food Delivery Platform",
+    description:
+      "A full-stack Food Delivery platform where a users can order the food and admin can manage the orders.",
+    image:
+      "https://img.freepik.com/free-psd/grocery-delivery-service-banner-template_23-2149077518.jpg?t=st=1737896290~exp=1737899890~hmac=9f19425cd0e2d9db95ee905872c706693ce5bdd4575bc1415725d186a5a9bb5b&w=1060",
+    tech: ["MongoDB", "Express", "React", "Node.js"],
+    liveLink: "https://tomato-food-del-frontend-uxtq.onrender.com/",
+    githubLink: "https://github.com/Logi257",
+  },
+
+  {
     title: "Spotify Clone Full-Stack",
     description:
       "A full-stack Spotify clone where users can listen to songs, and admins can manage albums and songs.",
@@ -13,6 +24,7 @@ const projects = [
     liveLink: "https://spotify-frontend-zj8f.onrender.com/",
     githubLink: "https://github.com/Logi257",
   },
+
   {
     title: "Travel Website",
     description:
@@ -21,16 +33,6 @@ const projects = [
       "https://www.magicpay.net/wp-content/uploads/2013/05/travel-agency-merchant-account.jpg",
     tech: ["HTML", "CSS", "Bootstap"],
     liveLink: "https://travellog.ccbp.tech/",
-    githubLink: "https://github.com/Logi257",
-  },
-  {
-    title: "Food Munch",
-    description:
-      "A single-page food catalog website to explore available dishes and their details.",
-    image:
-      "https://static.vecteezy.com/system/resources/previews/000/273/234/original/online-food-order-web-banner-vector.jpg",
-    tech: ["HTML", "CSS", "Bootstap"],
-    liveLink: "https://foodmunchlogweb.ccbp.tech/",
     githubLink: "https://github.com/Logi257",
   },
   {
