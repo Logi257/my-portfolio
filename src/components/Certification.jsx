@@ -24,7 +24,7 @@ const certifications = [
     name: "Python",
     organization: "NxtWave",
     date: "September 2024",
-    link: "https://certificates.ccbp.in/intensive/dynamic-web-application?id=WAHEOSEGLW",
+    link: "https://certificates.ccbp.in/intensive/programming-foundations?id=VOMADOEZGP",
   },
   {
     name: "SQL Database",
